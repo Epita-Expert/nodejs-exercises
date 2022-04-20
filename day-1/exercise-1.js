@@ -8,6 +8,7 @@ export const my_display_alpha = () => {
         'a',
         'b',
         'c',
+        'd',
         'e',
         'f',
         'g',
